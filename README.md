@@ -1,4 +1,4 @@
-### Hi there 👋
+// Hi Stranger :information_desk_person:
 
 <!--
 **amandahp/amandahp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
