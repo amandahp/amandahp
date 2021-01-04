@@ -1,4 +1,4 @@
-<h1 color="black" align="center"> # Hi Stranger :alien: </h1>
+<h1 color="black" align="center"> #Hi Stranger :alien: </h1>
 <br/>
 <p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
 <p align="center">
@@ -9,10 +9,13 @@
     <a href="mailto:amandahoffmann2001@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon"    width="30" height="30" aling="center"><img/></a>
 </p>
 
-<h2 align='left'>About me: 💁🏻‍♀️</h2>
+<h2 align='left'>#About me: 💁🏻‍♀️</h2>
 <p align='left' color="grey" font-size="20px">I'm Amanda Hoffmann 👩🏻, <br/>Beginner Full-Stack Web Developer 👩🏻‍💻 <br/> and passionate about learning 👩🏻‍🏫.</p>
 <p align='left'>📍Living: CWB, Brazil;<br/> 👩‍💻 Working: Sao Paulo, Brazil;<br/> 👩‍🎓 College: UTFPR, Curitiba.</p>
 <br/>
 <p>
-    <h2 align="rigth"><img  alt="skills"  width="40" height="40" src="icons/competence.svg"></img>My Skills: </h2>
+    <h2 align="rigth"><img  alt="skills"  width="50" height="50" src="icons/competence.svg"></img>#My Skills: </h2>
+</p>
+<p>
+    !.[Javascript].(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </p>
