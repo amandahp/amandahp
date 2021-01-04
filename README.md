@@ -43,3 +43,5 @@
     <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amandahp)](https://github.com/amandahp/github-readme-stats)
