@@ -17,5 +17,5 @@
     <h2 align="rigth"><img  alt="skills"  width="50" height="50" src="icons/competence.svg"></img>#My Skills: </h2>
 </p>
 <p>
-    !.[Javascript].(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    <img href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
