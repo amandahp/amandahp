@@ -50,6 +50,7 @@
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandahp&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
 </p>
 
+<h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=amandahp&theme=onedark&margin-w=7&hide_border=true" alt="amandahp points"/>
 </p>
