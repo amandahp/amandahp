@@ -14,6 +14,5 @@
 <p align='left'>📍Living: CWB, Brazil;<br/> 👩‍💻 Working: Sao Paulo, Brazil;<br/> 👩‍🎓 College: UTFPR, Curitiba.</p>
 <br/>
 <p>
-    <img  alt="skills"  width="40" height="40" href="icons/competence.svg"></img>
-    <h2 align="rigth">My Skills: </h2>
+    <h2 align="rigth"><img  alt="skills"  width="40" height="40" src="icons/competence.svg"></img>My Skills: </h2>
 </p>
