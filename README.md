@@ -13,4 +13,4 @@
 <p align='left' color="grey" font-size="20px">I'm Amanda Hoffmann 👩🏻, <br/>Beginner Full-Stack Web Developer 👩🏻‍💻 <br/> and passionate about learning 👩🏻‍🏫.</p>
 <p align='left'>📍Living: CWB, Brazil;<br/> 👩‍💻 Working: Sao Paulo, Brazil;<br/> 👩‍🎓 College: UTFPR, Curitiba.</p>
 
-<h2 align="rigth"><img  alt="skills"  width="40" height="40" href="icons/competence.svg"></img> My Skills: </h2>
+<h2 align="rigth"><img  alt="skills"  width="40" height="40" href="icons/github-sign.svg"></img> My Skills: </h2>
