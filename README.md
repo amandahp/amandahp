@@ -44,4 +44,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<h2 align='left'>#Github: :octocat:⚙️</h2>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amandahp&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandahp&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/amandahp/github-readme-stats)
