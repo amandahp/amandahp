@@ -11,3 +11,4 @@
 
 <h2 align='left'>About me: 💁🏻‍♀️</h2>
 <p align='left' color="grey" font-size="20px">I'm Amanda Hoffmann 👩🏻, <br/>Beginner Full-Stack Web Developer 👩🏻‍💻 <br/> and passionate about learning 👩🏻‍🏫.</p>
+<p align='left'>📍Living: CWB, Brazil;<br/> 👩‍💻 Working: Sao Paulo, Brazil;<br/> 👩‍🎓 College: UTFPR, Curitiba.</p>
