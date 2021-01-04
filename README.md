@@ -8,4 +8,4 @@
     <a href="mailto:amandahoffmann2001@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon"    width="30" height="30" aling="center"><img/></a>
 </p>
 <br/><br/>
-<p>I'm Amanda Hoffmann</p>
+<p align="center" color="grey">I'm Amanda Hoffmann :woman:, beginner Full-Stack Web Developer 👩🏻‍💻 and passionate about learning 👩🏻‍🏫.</p>
