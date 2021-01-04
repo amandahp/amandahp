@@ -7,5 +7,5 @@
     <a href="https://twitter.com/HoffmannDev"><img src="icons/twitter.svg" alt="TwitterIcon"    width="30" height="30" aling="center"><img/></a>
     <a href="mailto:amandahoffmann2001@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon"    width="30" height="30" aling="center"><img/></a>
 </p>
-<br/><br/>
-<p align="center" color="grey">I'm Amanda Hoffmann :woman:, beginner Full-Stack Web Developer 👩🏻‍💻 and passionate about learning 👩🏻‍🏫.</p>
+<br/>
+<p align="center" color="grey" font-size="20px">I'm Amanda Hoffmann :woman:, beginner Full-Stack Web Developer 👩🏻‍💻 and passionate about learning 👩🏻‍🏫.</p>
