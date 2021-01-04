@@ -9,9 +9,5 @@
     <a href="mailto:amandahoffmann2001@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon"    width="30" height="30" aling="center"><img/></a>
 </p>
 
-<h1 align='left'>About me:</h1>
+<h2 align='left'>About me:</h2>
 <p align='left' color="grey" font-size="20px">I'm Amanda Hoffmann :woman:, <br/>beginner Full-Stack Web Developer 👩🏻‍💻 and passionate about learning 👩🏻‍🏫.</p>
-<p>
-
-    <br></br>
-</p>
