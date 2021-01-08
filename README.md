@@ -55,3 +55,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=amandahp&theme=onedark&margin-w=7&hide_border=true" alt="amandahp points"/>
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amandahp.amandahp)
