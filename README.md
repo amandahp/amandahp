@@ -52,8 +52,7 @@
 
 <h2 align='left'>#Github :octocat:🏆️</h2>
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=amandahp&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/amandahp/amandahp?color=black&logo=github" />
+![amandahp's github stats](https://github-readme-stats.vercel.app/api?username=amandahp&show_icons=true&hide_border=true)
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amandahp.amandahp)
