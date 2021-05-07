@@ -4,8 +4,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/amanda-h-660bab130/"><img src="icons/linkedin.svg"     alt="LinkedinIcon" width="30" height="30" aling="center"><img/></a>
     <a href="https://github.com/amandahp"><img src="icons/github-sign.svg" alt="GitHubIcon"     width="30" height="30" aling="center"><img/></a>
-    <a href="https://twitter.com/HoffmannDev"><img src="icons/twitter.svg" alt="TwitterIcon"    width="30" height="30" aling="center"><img/></a>
-    <a href="https://master.d182jwb085wxox.amplifyapp.com/home"><img src="icons/search-engine.svg" alt="SiteIcon"   width="30" height="30" aling="center"><img/></a>
+   </a>
     <a href="mailto:amandahoffmann2001@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon"    width="30" height="30" aling="center"><img/></a>
 </p>
 
