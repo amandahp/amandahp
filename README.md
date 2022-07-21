@@ -6,6 +6,7 @@
     <a href="https://github.com/amandahp"><img src="icons/github-sign.svg" alt="GitHubIcon"     width="30" height="30" aling="center"><img/></a>
    </a>
     <a href="mailto:amandahoffmann2001@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon"    width="30" height="30" aling="center"><img/></a>
+    <a href="https://www.codewars.com/users/amandahp"><img src="https://www.svgrepo.com/show/305890/codewars.svg" width="30" height="30" aling="center">    <img/></a>
 </p>
 
 <h2 align='left'>#About me: 💁🏻‍♀️</h2>
