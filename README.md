@@ -38,11 +38,11 @@
       <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~/About-Me </span>touch AboutMe.html</h1>
       <section>
         <h3 align='left'>Hi Stranger, I'm Amanda.</h3>
-        <p>Some information that may be of interest to you:</p> 
-        <p> I'm a cyborg and I work for a company that collects data. LOL, I wish I had the ability to understand binary, in reality,<br> I'm just another fan of informatics, and to achieve communication with my muse, as poets need their<br> muses for inspiration, I decided to enter the world of programming.</p>
-        <p>I am a Systems Analysis and Development student and I also do a bootcamp in Web Development.<br> Learning is always good, knowledge frees you from the anguish of ignorance.</p>
-        <p>I currently live in São Paulo, the stone jungle, in Brazil. It's a great place to isolate yourself at home and try<br>to learn as many programming languages as possible, it's a joke - HAHA -.</p>
-         <p>I've been in the technology market since 2020, and since then I've been dedicating myself to some programming languages,<br> namely: Java...script - it's Java, I haven't had the opportunity to do crazy things with you -, and Python - I love Python,<br> the more you think you're getting an expert at programming in Python, a raise Timeout error will remind you that<br> you're not even at the beginning - . As a particular curious person, whenever possible, I try to learn other languages, one day Clojure will be my vocation,<br>I believe, or maybe Golang will make me go - HAHA -.</p> 
+        <p align='left'>Some information that may be of interest to you:</p> 
+        <p align='left'> I'm a cyborg and I work for a company that collects data. LOL, I wish I had the ability to understand binary, in reality,<br> I'm just another fan of informatics, and to achieve communication with my muse, as poets need their<br> muses for inspiration, I decided to enter the world of programming.</p>
+        <p align='left'>I am a Systems Analysis and Development student and I also do a bootcamp in Web Development.<br> Learning is always good, knowledge frees you from the anguish of ignorance.</p>
+        <p align='left'>I currently live in São Paulo, the stone jungle, in Brazil. It's a great place to isolate yourself at home and try<br>to learn as many programming languages as possible, it's a joke - HAHA -.</p>
+        <p align='left'>I've been in the technology market since 2020, and since then I've been dedicating myself to some programming languages,<br> namely: Java...script - it's Java, I haven't had the opportunity to do crazy things with you -, and Python - I love Python,<br> the more you think you're getting an expert at programming in Python, a raise Timeout error will remind you that<br> you're not even at the beginning - . As a particular curious person, whenever possible, I try to learn other languages, one day Clojure will be my vocation,<br>I believe, or maybe Golang will make me go - HAHA -.</p> 
       </section>
       <h3 align='left'>If you want to get in touch, my contact networks are available below:</h3>
       <table>
