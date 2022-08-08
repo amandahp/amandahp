@@ -70,7 +70,7 @@
             <img width="140" height="50"src="https://www.codewars.com/users/amandahp/badges/micro" />
           </a></td>
           <td><a href="https://www.hackerrank.com/amandahoffmann96">
-            <img width="140" height="50" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg"/>
+            <img width="120" height="60" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg"/>
           </a></td>
           <td><a href="https://leetcode.com/amandahoffmann96/">
             <img width="140" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"/>
