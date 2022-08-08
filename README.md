@@ -33,7 +33,7 @@
 <body>
   <div align="center">
     <code>
-      <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~$ </span>mkdir About-Me</h1>
+      <h1><FONT COLOR="#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~$ </span>mkdir About-Me</h1>
       <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~$ </span>cd About-Me</h1>
       <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~/About-Me </span>touch AboutMe.html</h1>
       <section>
