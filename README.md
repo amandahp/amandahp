@@ -118,9 +118,7 @@
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=midnight-purple&Text=7DCE13&Background=000000&Title=FA2FB5&Ring=FA2FB5">    
         <img  alt="amandahp's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/amandahp?cardType=octocat&theme=midnight-purple&Text=7DCE13&Background=000000&Title=FA2FB5&Ring=FA2FB5" />  
       </a>
-    </p><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=midnight-purple">    
-      <img  alt="amandahp's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/amandahp?cardType=octocat&theme=midnight-purple" />  
-    </a>
+    </p>
     <p><img src="https://visitor-badge.laobi.icu/badge?page_id=amandahp.amandahp" alt="Visitor Badge"></p>
   </code>
 </html>
