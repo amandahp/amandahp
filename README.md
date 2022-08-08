@@ -33,9 +33,9 @@
 <body>
   <div align="center">
     <code>
-      <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~$ </span>mkdir About-Me</h1>
-      <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~$ </span>cd About-Me</h1>
-      <h1><span style="color:#7DCE13">amanda@git-hub</span><span style="color:#FA2FB5">:~/About-Me </span>touch AboutMe.html</h1><br><br> 
+      <h1><FONT COLOR="#7DCE13">amanda@git-hub</FONT COLOR><FONT COLOR="#FA2FB5">:~$ </FONT COLOR>mkdir About-Me</h1>
+      <h1><FONT COLOR="#7DCE13">amanda@git-hub</FONT COLOR><FONT COLOR="#FA2FB5">:~$ </FONT COLOR>cd About-Me</h1>
+      <h1><FONT COLOR="#7DCE13">amanda@git-hub</FONT COLOR><FONT COLOR="#FA2FB5">:~/About-Me </FONT COLOR>touch About-Me</h1>
       <section>
         <h3 align='left'>Hi Stranger, I'm Amanda.</h3>
         <p>Some information that may be of interest to you:</p> 
