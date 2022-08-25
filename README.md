@@ -47,7 +47,10 @@
       <h3 align='left'>If you want to get in touch, my contact networks are available below:</h3>
       <table>
         <tbody>
-          <tr> 
+          <tr>
+            <td><a href="https://medium.com/@amandahp">
+              <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/medium/medium-ar21.svg" />
+            </a></td>
             <td><a href="https://www.linkedin.com/in/amanda-h-660bab130/">
               <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
