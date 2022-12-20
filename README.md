@@ -1,35 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--style> 
-  body {
-    font-family:'Roboto Mono', monospace;
-  }
-
-  div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  div section {
-    width: 450px;
-    text-align: center;
-  }
-
-  .challenges-site img {
-    height: 50px;
-    width: 140px;
-  }
-
-  .skills {
-    width: 30%;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    flex-wrap: wrap;
-  }
-</style-->
 <body>
   <div align="center">
     <code>
