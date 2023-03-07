@@ -1,4 +1,6 @@
 ## Welcome to my GitHub
+
+:bust_in_silhouette: Amanda Hoffmann
 :round_pushpin: São Paulo, Brazil
 
 I'm Software Developer since 2020, also I'm student Systems Analysis and Development and in 2022 I participated in a bootcamp to improve my knowledge in development.
