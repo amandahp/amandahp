@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 :round_pushpin: São Paulo, Brazil
 
-I'm Software Developer sice 2020, also I'm student Systems Analysis and Development and in 2022 I participated in a bootcamp to improve my knowledge in development.
+I'm Software Developer since 2020, also I'm student Systems Analysis and Development and in 2022 I participated in a bootcamp to improve my knowledge in development.
 
 
 ### My social networks
