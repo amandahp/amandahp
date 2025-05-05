@@ -9,7 +9,7 @@ I'm a Software Developer with experience in full-stack development, focusing on 
 
 | [![](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)](mailto:amandahoffmann96@gmail.com) | [![](https://www.vectorlogo.zone/logos/medium/medium-ar21.svg)](https://medium.com/@amandahp) |  
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------|  
-| [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/amanda-hoffmann/) |  [![]((https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821))](https://amandahoffmann.vercel.app/)
+| [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/amanda-hoffmann/) |  <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="20" /> [AHP](https://amandahoffmann.vercel.app/)  
 ### Others  
 
 [CodeWars](https://www.codewars.com/users/amandahp) | [HackerRank](https://www.hackerrank.com/amandahoffmann96) | [Leetcode](https://leetcode.com/amandahoffmann96/)  
